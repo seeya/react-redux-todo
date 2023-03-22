@@ -8,6 +8,7 @@ function App() {
   return (
     <div className="App">
       <TaskProvider>
+        <h1>Hello Word</h1>
         <AddTask />
         <TaskList />
       </TaskProvider>
